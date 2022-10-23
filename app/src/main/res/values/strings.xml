@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">RapyPago</string>
+    <string name="buttonIngresar">Ingresar</string>
+    <string name="buttonRegistrarse">Registrarse</string>
+    <string name="buttonConsultas">Consultas</string>
+
+    <string name="txtRUT">RUT (si termina en K, cambielo por un cero)</string>//ventana de Ingresar
+    <string name="txtContraseña">Contraseña</string>//ventana de Ingresar
+    <string name="buttonIniciar">Iniciar Sesión</string>//ventana de Ingresar
+
+    <string name="txtInformacion">Registro de Usuario</string>//ventana de Registrarse
+    <string name="textNombres">Nombres</string>//ventana de Registrarse
+    <string name="textApellidos">Apellidos</string>//ventana de Registrarse
+    <string name="textRUT">RUT (si termina en K, cambielo por un cero)</string>//ventana de Registrarse
+    <string name="textCorreo">Correo</string>//ventana de Registrarse
+    <string name="textContraseña">Contraseña</string>//ventana de Registrarse
+    <string name="textValidarContraseña">Validar Contraseña</string>//ventana de Registrarse
+    <string name="textJuegos">Dime tu juego Favorito</string>//ventana de Registrase
+    <string name="buttonRegistrarUsuario">Registrar Usuario</string>//ventana de Registrarse
+
+    <string name="textMenuSesion">AQUI DEBE IR LA INFORMACION DEL USUARIO</string>//ventana de Menu Sesion
+
+
+</resources>
